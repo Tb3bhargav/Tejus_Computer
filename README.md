@@ -35,7 +35,7 @@ A Chrome extension that acts as an AI agent powered by **Groq**. It takes screen
 
 1. Click the **Tejus Computer** icon in the Chrome toolbar – the side panel opens.
 2. Enter your **Groq API key** (starts with `gsk_`).
-3. Select a **vision model** (Llama 3.2 90B Vision recommended).
+3. Select a **vision model** (meta-llama/llama-4-scout-17b-16e-instruct recommended).
 4. Type a **task** in natural language, e.g.:
    - *"Search for the latest news about AI on Google and summarize the first result."*
    - *"Go to github.com and star the repository Tejus_Computer."*
